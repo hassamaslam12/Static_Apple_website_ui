@@ -1,0 +1,106 @@
+.custom-nav{
+    background: #C9C9CA;
+}
+
+
+.custom-nav > ul{
+    list-style-type: none;
+}
+
+
+
+
+.custom-nav a{
+    color: #282828;
+    text-decoration: none;
+}
+
+.custom-attribute{
+    text-decoration: none;
+    color: #2997FF;
+
+}
+.custom-attribute:hover{
+    text-decoration: underline;
+}
+
+
+.bg-vision{
+    background-color: #F5F5F7;
+}
+
+.tradein{
+    height: 70px;
+    background-color: #FBFBFD;
+}
+
+.bg-custom{
+    background-color: #F5F5F7;
+}
+
+.fs-custom{
+    font-size: 13px;
+    border-bottom: 1px solid #D2D2D7 ;
+}
+
+.footer-fs{
+    font-size: 12px;
+}
+
+.footer ul{
+list-style-type: none;
+
+padding-left: 0%;
+margin-left: 0;
+}
+
+.footer li{
+    padding-left: 0%;
+    margin-left: 0;
+}
+
+.footer a{
+    text-decoration: none;
+    
+    color: #424245;
+}
+
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.fs-customm{
+    color: #424245;
+    font-size: 12px;
+}
+
+.custom-hr{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D2D2D7;
+}
+
+.footer-ul{
+    list-style-type: none;
+    font-size: 12px;
+    display: flex;
+}
+
+
+.footer-ul li{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #86868B;
+}
+.footer-ul a{
+    text-decoration: none;
+    color: #424245;
+}
+
+.c{
+    font-size: 12px;
+    text-decoration: none;
+    color: #424245;
+    position: absolute;
+    right: 40px;
+
+}
